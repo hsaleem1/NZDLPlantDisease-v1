@@ -10,3 +10,7 @@ Locations: Auckland and Palmerston North, New Zealand.
 * [Validation dataset](https://drive.google.com/u/0/uc?id=1vrZGhYcUBDHV_ApnGfnOQZt2k88eONov) (450 MB)
 * [Testing dataset](https://drive.google.com/u/0/uc?id=1a4Qc1iH5BE8BkGm4fzzfCE143wYjL6r4) (227 MB)
 * [External testing dataset](https://drive.google.com/file/d/1qLhG4MGfXPDb3XIg8GaJ6XedUM40SHfY/view?usp=sharing) (77 MB)
+
+This repository is a part of the PhD research of Muhammad Hammad Saleem (H.Saleem@massey.ac.nz; engr.hammadsaleem@gmail.com)
+
+In case of any query, please contact Dr. Khalid Mahmood Arif (K.Arif@massey.ac.nz), Muhammad Hammad Saleem (H.Saleem@massey.ac.nz; engr.hammadsaleem@gmail.com)
