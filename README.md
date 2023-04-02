@@ -1,8 +1,12 @@
 # NZDLPlantDisease-v1
 
-This dataset contains plant disease in five different crops in New Zealand, including kiwifruit, apple, pear, avocado, and grapevine. The images were acquired by using Samsung Galaxy S10 plus: 12 MP f/1.5-2.4 (wide), 12 MP f/2.4 (telephoto), and 16 MP, f/2.2 (ultrawide). The images were taken at a working distance of 200-300 mm.
+This dataset contains plant disease in five different crops in New Zealand, including kiwifruit, apple, pear, avocado, and grapevine for the paper, “A Performance-Optimized Deep Learning-based Plant Disease Detection Approach for Horticultural Crops of New Zealand” published with Open Access by IEEE Access. 
+
+The images were acquired by using Samsung Galaxy S10 plus: 12 MP f/1.5-2.4 (wide), 12 MP f/2.4 (telephoto), and 16 MP, f/2.2 (ultrawide). The images were taken at a working distance of 200-300 mm.
 
 Locations: Auckland and Palmerston North, New Zealand.
+
+The dataset is licensed under CC BY 4.0 license. The contents of this repository are released under an Apache 2 license.
 
 ## Download the datasets
 
